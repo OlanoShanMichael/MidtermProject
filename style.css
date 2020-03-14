@@ -2,11 +2,32 @@
     padding: 0%;
     margin: 0%;
 }
-.wrapper {
-    background-color: #fbceb1;
+
+.fbsite {
+    left: 35%;
+    position: relative;
+    height: 100px;
+    width:  100px;
+    margin: 20px 20px 20px 20px;
+
+}
+.twtsite {
+    left: 35%;
+    position: relative;
+    height: 100px;
+    width:  100px;
+    margin: 20px 20px 20px 20px;
+}
+.instasite{
+    left: 35%;
+    position: relative;
+    height: 100px;
+    width:  100px;
+    margin: 20px 20px 20px 20px;
+
 }
 .carousel{
-    width:75%x;
+    width:75%;
     height:25%;
   }
 #bg-main {
@@ -17,10 +38,10 @@
 #cover-front {
     position: absolute;
     font-family: 'Dancing Script','cursive';
-    left: 20%;
-    top: 70%;
-    font-weight: 600;
-    font-size: 1500%;  
+    font-weight: 600vw;
+    left:300px;
+    top: 150px;
+    font-size: 18vw;  
     color: 	#ff1493;  
 }
 #twice-logo-grid1 {
@@ -63,5 +84,5 @@
 #twicedebut2-img {
     height: 100%;
     width: 100%;
-
 }
+
